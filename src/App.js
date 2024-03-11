@@ -87,10 +87,10 @@ function App() {
               </div>
               <div className="jobDetails">
                 <p>
-                  <span>LIT INFOTECH</span> is looking for a talented Full Stack
-                  Developer to join our dynamic team. If you're passionate about
-                  web development and ready to take on exciting challenges, we
-                  want to hear from you!
+                  <span>LIT INFOTECH</span> is seeking a skilled Data Scientist
+                  to join our innovative team. If you're passionate about data
+                  analysis and machine learning, and eager to tackle complex
+                  challenges, we want to hear from you!
                 </p>
                 <h2>Responsibilities:</h2>
                 <ul>
