@@ -11,6 +11,8 @@ body {
   margin-top: 0;
   padding: 50px 20px;
   text-align: center;
+  font-size: 40px;
+  font-weight: 700;
 }
 
 .flexContainer {
