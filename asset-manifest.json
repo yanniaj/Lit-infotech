@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Lit-infotech/static/css/main.b2cd1a51.css",
-    "main.js": "/Lit-infotech/static/js/main.952e2fd5.js",
+    "main.css": "/Lit-infotech/static/css/main.ebf8af1d.css",
+    "main.js": "/Lit-infotech/static/js/main.6533c0ab.js",
     "index.html": "/Lit-infotech/index.html",
-    "main.b2cd1a51.css.map": "/Lit-infotech/static/css/main.b2cd1a51.css.map",
-    "main.952e2fd5.js.map": "/Lit-infotech/static/js/main.952e2fd5.js.map"
+    "main.ebf8af1d.css.map": "/Lit-infotech/static/css/main.ebf8af1d.css.map",
+    "main.6533c0ab.js.map": "/Lit-infotech/static/js/main.6533c0ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2cd1a51.css",
-    "static/js/main.952e2fd5.js"
+    "static/css/main.ebf8af1d.css",
+    "static/js/main.6533c0ab.js"
   ]
 }
