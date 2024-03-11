@@ -95,23 +95,36 @@ function App() {
                 <h2>Responsibilities:</h2>
                 <ul>
                   <li>
-                    Develop and maintain both front-end and back-end of web
-                    applications.
+                    Perform exploratory data analysis (EDA) to identify patterns
+                    and trends in datasets.
                   </li>
                   <li>
-                    Collaborate with cross-functional teams to design and
-                    implement new features.
+                    Collaborate with senior data scientists to contribute to the
+                    development and implementation of machine learning models.
                   </li>
-                  <li>Optimize applications for speed and scalability.</li>
+                  <li>
+                    Clean and preprocess raw data to ensure its accuracy,
+                    completeness, and suitability for analysis.
+                  </li>
+                  <li>
+                    Support in developing and maintaining efficient data
+                    pipelines.
+                  </li>
                 </ul>
                 <h2>Qualifications:</h2>
                 <ul>
-                  <li>Proficient in HTML, CSS, and JavaScript.</li>
                   <li>
-                    Experience with front-end frameworks (React, Angular, or
-                    Vue.js) and back-end frameworks (Node.js, Express).
+                    Bachelor's or Master's degree in a relevant field such as
+                    Computer Science, Statistics, or Data Science.
                   </li>
-                  <li>Knowledge of database systems (MySQL, MongoDB).</li>
+                  <li>
+                    Proficiency in programming languages such as Python or R for
+                    data analysis and scripting.
+                  </li>
+                  <li>
+                    Strong analytical and problem-solving skills with an ability
+                    to think critically about data-related challenges.
+                  </li>
                 </ul>
                 <p>
                   If you're ready to make an impact, apply now by emailing
