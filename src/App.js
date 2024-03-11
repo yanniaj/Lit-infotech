@@ -11,7 +11,9 @@ function App() {
       clickedLi = e.target.parentElement.parentElement;
       // console.log(clickedLi);
     }
+
     clickedLi.classList.toggle("showDescription");
+
     const button = clickedLi.querySelector(".buttonClass");
     button.innerText = button.innerText === "+" ? "-" : "+";
   };
